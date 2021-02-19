@@ -21,13 +21,13 @@
 }
 
 .header img {
-    width: 250px;
+    width: 240px;
     float: left;
     margin-top: 30px;
 }
 
 .login-btn {
-    width: 160px;
+    width: 150px;
     padding: 6px 0;
     outline: none !important;
     border: 2px solid #fff;
@@ -36,6 +36,8 @@
     color: #fff;
     margin-top: 40px;
     float: right;
+    -webkit-transition: 1s;
+    transition: 1s;
 }
 
 .header h1 {
